@@ -1,6 +1,7 @@
 MIT License
 
 Copyright © 2016 Igor Kroitor
+
 Copyright © 2023 Benoit Perigaud
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
